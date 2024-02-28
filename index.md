@@ -19,5 +19,5 @@ I typed in ```<k><k><k><k><k><l><l><l><l><l><l><l><l><l><l><l>xi2 <esc> :wq```. 
 I typed in ```bash test.sh <enter>```. This command runs the tesh.sh file, which contains the lines to execute the program. It passed all of the tests this time :O!
 
 9.
-![Image](final_.png)
+![Image](final.png)
 I typed in ```git add .```, ```git commit -m"yurr"```, and ```git push``` to add all of the files, add a commit message (to show on the github repo), and push to the repo. 
