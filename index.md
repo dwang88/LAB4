@@ -10,5 +10,5 @@ I typed in ```git clone git@github.com:dwang88/lab7.git <enter>```. This command
 ![Image](five.png)
 I typed in ```bash test.sh <enter>```. This command runs the tesh.sh file, which contains the lines to execute the program. 
 
-![Image](seven.png)
+![Image](fixed.png)
 I typed in ```<k><k><k><k><k><l><l><l><l><l><l><l><l><l><l><l>xi2 <esc> :wq```. This allowed me to navigate to the line with the error, delete, and insert 2. Then I saved and exited the file. 
