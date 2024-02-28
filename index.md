@@ -20,4 +20,4 @@ I typed in ```bash test.sh <enter>```. This command runs the tesh.sh file, which
 
 9.
 ![Image](final.png)
-I typed in ```git add .```, ```git commit -m"yurr"```, and ```git push``` to add all of the files, add a commit message (to show on the github repo), and push to the repo. 
+I typed in ```git add .```, ```git commit -m"yur"```, and ```git push``` to add all of the files, add a commit message (to show on the github repo), and push to the repo. 
