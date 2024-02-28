@@ -1,11 +1,15 @@
 **Lab 4**
+
+4. 
 ![Image](four.png)
 I typed in ```ssh daw022@ieng6.ucsd.edu <enter>```. This command let me log into ieng6. 
 
-![Image](five.png)
+5.
+![Image](clone.png)
 I typed in ```git clone git@github.com:dwang88/lab7.git <enter>```. This command clone my forked github repo. 
 
-![Image](six.png)
+6.
+![Image](five.png)
 I typed in ```bash test.sh <enter>```. This command runs the tesh.sh file, which contains the lines to execute the program. 
 
 ![Image](seven.png)
