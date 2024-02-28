@@ -1,3 +1,4 @@
+
 4. 
 ![Image](four.png)
 I typed in ```ssh daw022@ieng6.ucsd.edu <enter>```. This command let me log into ieng6. 
